@@ -31,7 +31,7 @@
             </select>
           </div>
           <div class="form-group">
-            <label>Amount</label>
+            <label>Year Started</label>
             <input type="text" class="form-control" v-model="subscription.year" required>
           </div>
           <div class="form-group">
